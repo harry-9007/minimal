@@ -12,11 +12,11 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 ---
 
-# Header 1
+# Fraud Model
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Time Series Model 
 
 > This is a blockquote following a header.
 >
